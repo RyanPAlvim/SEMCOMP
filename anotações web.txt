@@ -1,0 +1,8 @@
+HTTP -> não tem criptografia do site ---- sua senha é a mesma no banco de dados
+
+HTTPS -> tem criptografia ---- sua senha é transcrita e criptografada
+
+FERRAMENTAS:
+
+
+
